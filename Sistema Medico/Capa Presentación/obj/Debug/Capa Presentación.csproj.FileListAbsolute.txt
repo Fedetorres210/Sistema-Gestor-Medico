@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Presentación\bin\Debug\Capa Presentación.exe.config
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Presentación\bin\Debug\Capa Presentación.exe
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Presentación\bin\Debug\Capa Presentación.pdb
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Presentación\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Presentación\obj\Debug\Capa Presentación.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Presentación\obj\Debug\Capa Presentación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Presentación\obj\Debug\Capa_Presentación.Inicio.resources
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Presentación\obj\Debug\Capa_Presentación.Login.resources
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Presentación\obj\Debug\Capa_Presentación.Properties.Resources.resources
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Presentación\obj\Debug\Capa Presentación.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Presentación\obj\Debug\Capa Presentación.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Presentación\obj\Debug\Capa Presentación.csproj.CopyComplete
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Presentación\obj\Debug\Capa Presentación.exe
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Presentación\obj\Debug\Capa Presentación.pdb
