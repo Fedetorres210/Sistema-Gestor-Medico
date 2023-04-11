@@ -1,0 +1,11 @@
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Negocio\obj\Debug\Capa Negocio.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Negocio\obj\Debug\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Negocio\bin\Debug\Capa Negocio.dll
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Negocio\bin\Debug\Capa Negocio.pdb
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Negocio\bin\Debug\Capa Datos.dll
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Negocio\bin\Debug\Capa Entidad.dll
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Negocio\bin\Debug\Capa Datos.pdb
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Negocio\bin\Debug\Capa Entidad.pdb
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Negocio\obj\Debug\Capa Negocio.csproj.CopyComplete
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Negocio\obj\Debug\Capa Negocio.dll
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Negocio\obj\Debug\Capa Negocio.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Entidad\obj\Debug\Capa Entidad.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Entidad\obj\Debug\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Entidad\bin\Debug\Capa Entidad.dll
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Entidad\bin\Debug\Capa Entidad.pdb
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Entidad\obj\Debug\Capa Entidad.dll
+C:\Users\Dell\Documents\AA I SEMESTRE 2023\BASES\PP1\Sistema Medico\Capa Entidad\obj\Debug\Capa Entidad.pdb

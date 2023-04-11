@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Capa_Entidad
+namespace CapaEntidades
 {
-    public class Permiso
+    internal class permisos
     {
-        public int IdPermiso { get; set; } 
-        public Rol oRol { get; set; }
-
+        public int id_permiso { get; set; }
+        public rol id_rol { get; set; }
         public string nombre { get; set; }
     }
 }
